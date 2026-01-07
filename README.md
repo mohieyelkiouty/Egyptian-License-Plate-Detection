@@ -190,7 +190,7 @@ Below are sample results demonstrating license plate detection and Arabic OCR pe
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/mohieyelkiouty/Super-Resolution-Project.git
+git clone https://github.com/mohieyelkiouty/Egyptian-License-Plate-Detection.git
 ```
 
 ### 2️⃣ Install dependencies
